@@ -40,7 +40,7 @@ A simple Python project that helps you generate research essays or summaries usi
 4. **Run the project:**
 
     ```
-    python main.py
+    python3 main.py
     ```
 
 ---
